@@ -23,7 +23,7 @@ section{
     width: 50%;
 }
 .img-part img{
-    margin-top: 40px;
+    margin-top: 60px;
     width: 70%;
     margin-left: 60px;
 }
@@ -38,16 +38,17 @@ section{
 }
 
 .text-part p{
-    margin-bottom: 40px;
+    margin-bottom: 60px;
     color: gray;
 }
 
 
 .back{
-    background-image: url(images/Frame\ 58.jpg);
-    background-repeat: no-repeat;
-    width: 100%;
+    background-image: url(images/7.png);
+    background-repeat: repeat;
     margin-top: 60px;
+    width: auto;
+
 }
 
 .img-two{
@@ -71,4 +72,13 @@ section{
     text-decoration: none;
     color: white;
     font-weight: 500;
+}
+
+.recipies{
+    text-align: center;
+}
+
+.recipies p{
+    margin-left: 500px;
+    margin-right: 500px;
 }
