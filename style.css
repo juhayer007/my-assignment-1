@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.orange{
+    color: orangered;
+}
+
+section{
+    display:flex;
+}
+.text-part{
+    width: 50%;
+    margin-left: 150px;
+    margin-top: 120px;
+}
+.text-part h1{
+    font-size: 70px;
+    color: rgb(90, 86, 86);
+}
+
+.img-part{
+    width: 50%;
+}
+.img-part img{
+    margin-top: 40px;
+    width: 70%;
+    margin-left: 60px;
+}
+.text-part a{
+    background: linear-gradient(#ff0000, #fa7474);
+    padding: 10px 20px;
+    border-radius: 40px;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    
+}
+
+.text-part p{
+    margin-bottom: 40px;
+    color: gray;
+}
+
+
+.back{
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-top: 60px;
+}
+
+.img-two{
+    width: 50%;
+}
+
+.text-two{
+    width: 50%;
+
+}
+
+.img-two img{
+    width: 60%;
+    margin-left: 150px;
+}
+
+.text-two a{
+    background: linear-gradient(#ff0000, #fa7474);
+    padding: 10px 20px;
+    border-radius: 40px;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
