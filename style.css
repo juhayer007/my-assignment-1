@@ -45,14 +45,16 @@ section{
 
 .back{
     background-image: url(images/7.png);
-    background-repeat: repeat;
+    background-size: 100%;
     margin-top: 60px;
     width: auto;
+    
 
 }
 
 .img-two{
     width: 50%;
+    height: 590px;
 }
 
 .text-two{
@@ -61,8 +63,9 @@ section{
 }
 
 .img-two img{
-    width: 60%;
+  
     margin-left: 150px;
+    height: 590px;
 }
 
 .text-two a{
@@ -82,3 +85,22 @@ section{
     margin-left: 500px;
     margin-right: 500px;
 }
+.emon img{
+    width: 90%;
+    margin-left: 5%;
+    height: 50%;
+}
+
+.emon p, h3{
+        text-align: center;
+        margin-left: 14%;
+        width: 70%;
+     }
+.item-one{
+    box-shadow: 20px 20px 100px gray;
+    padding-top: 17px;
+    border-radius: 20px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
