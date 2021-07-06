@@ -166,3 +166,49 @@ section{
 .min{
     text-align: center;
 }
+.navi{
+    background-color:#FE4B2F;
+    height: 100px;
+    font-family: 'Otomanopee One', sans-serif;
+    border-radius: 90px;
+    
+
+
+}
+
+
+.navi .two{
+    overflow: hidden;
+    float: left;
+    font-size: 40px;
+    box-shadow: 20px 20px 100px gray;
+    border-radius: 20px;
+    padding: 10px 10px;
+}
+
+.navi .three{
+    overflow: hidden;
+    float: left;
+    font-size: 40px;
+    box-shadow: 20px 20px 100px gray;
+    border-radius: 20px;
+    padding: 10px 10px;
+}
+
+.navi .four{
+    overflow: hidden;
+    float: left;
+    font-size: 40px;
+    box-shadow: 20px 20px 100px gray;
+    border-radius: 20px;
+    padding: 10px 10px;
+}
+
+.navi li{
+    margin-left: 174px;
+    margin-top: 10px;
+}
+
+.navi a :hover{
+    color:rgb(54, 2, 11);
+}
