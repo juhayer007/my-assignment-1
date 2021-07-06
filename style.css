@@ -23,7 +23,7 @@ section{
     width: 50%;
 }
 .img-part img{
-    margin-top: 46px
+    margin-top: 46px;
     width: 96%;
     margin-left: 22px;
 }
@@ -41,6 +41,7 @@ section{
 .text-part p{
     margin-bottom: 60px;
     color: gray;
+    font-size: 20px;
 }
 
 
@@ -120,19 +121,22 @@ section{
     margin-right: 5%;
     margin-left: 5%;
 }
-
+.last span{
+    color: darkorange;
+}
 .last{
     background-color:black;
-    padding: 5px 0px;
+    padding: 15px 0px;
     margin-top: 33px;
+   
 }
 .last h3{
-    color: blanchedalmond;
+    color: gray;
     text-align: center;
     margin-top: 20px;
 }
 .last p{
-    color: crimson;
+    color: white;
     text-align: center;
 }
 
@@ -142,21 +146,25 @@ section{
     margin-left: 80px;
     margin-right: 80px;
     border-radius: 20px;
-    padding: 75px;
+    padding: 20px;
+    margin-bottom: 100px;
 }
 
-.emin h1, p{
-    margin-left: 86px;
+}
+
+.min h1{
     text-align: center;
-
-}
-
-.emin h1{
+    margin-left: 122px;
     font-size: 30px;
     font-weight: 800;
 }
 
-.emin p{
+.min p{
+    margin-left: 82px;
     font-size: 30px;
     font-weight: 800;
+    margin-right: 73px;
+}
+.min{
+    text-align: center;
 }
